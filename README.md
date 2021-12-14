@@ -5,4 +5,5 @@ Simple Pose ID with python, opencv
 You will need to install this modules
 1. OpenCV
 2. Mediapipe
-3. 
+
+That's it, enjoy it!
